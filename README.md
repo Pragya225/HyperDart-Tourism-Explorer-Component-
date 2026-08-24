@@ -33,4 +33,4 @@ A HyperDart component that surfaces tourist attractions, landmarks, and points o
 <img width="833" height="701" alt="image" src="https://github.com/user-attachments/assets/d890efa5-94ab-4342-bfc7-b7b12dfe8bc9" />
 
 ## Demo Video
-[Watch the demo]https://drive.google.com/file/d/17SySCXExfbb_hiF7JBw0RxNKAdqa-y8m/view
+[Watch the demo](https://drive.google.com/file/d/17SySCXExfbb_hiF7JBw0RxNKAdqa-y8m/view)
