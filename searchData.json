@@ -1,0 +1,47 @@
+[
+  {
+    "component": "tourism",
+    "componentPrimaryName": "",
+    "templateID": 0,
+    "entities": [
+      {
+        "word": "Rome",
+        "wgID": 1000,
+        "wgName": "CITIES",
+        "collectionName": "CITIES",
+        "collectionType": "HD_LOCATION",
+        "entityInfo": {
+          "geo": {
+            "tz": "Europe/Rome",
+            "lat": 41.9028,
+            "city": "Rome",
+            "long": 12.4964,
+            "state": "Lazio",
+            "country": "Italy"
+          }
+        },
+        "componentName": "tourism",
+        "entityType": "LOCATION",
+        "sourceID": "roma",
+        "description": "Capital city of Italy",
+        "priority": 3,
+        "isEnabled": 1,
+        "relevanceScore": 100,
+        "primaryID": "roma"
+      }
+    ],
+    "query": "landmarks in Rome",
+    "componentEnabled": true,
+    "keyword": [
+      {
+        "word": "landmarks",
+        "description": ""
+      }
+    ],
+    "queryTerm": "landmarks in rome",
+    "disambiguationType": 3,
+    "queryRegex": "landmarks\\s+(in|near)\\s+HD_LOCATION(__\\w+)?.*",
+    "quickView": 3,
+    "componentType": "internal"
+  }
+]
